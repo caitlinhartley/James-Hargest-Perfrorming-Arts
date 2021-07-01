@@ -93,8 +93,8 @@ body {
 header {
   background-color:#a9352f;
   padding: 20px;
-  text-align: left;
-  font-size: 20px;
+  text-align: center;
+  font-size: 30px;
   color: white;
   margin-right: 150px;
   margin-left: 150px;
@@ -133,8 +133,11 @@ article {
 footer {
   background-color: #a9352f;
   padding: 10px;
+  font-size: 70px ;
   text-align: center;
-  color: white;
+  color: white
+ 
+  ;
 }
 
 
